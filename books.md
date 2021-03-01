@@ -1,8 +1,16 @@
 # Books
 
-## You Don't Know JS
+## Reading right now...
 
-Fantastic to learn JavaScript.
+<div style="display:flex;flex-direction:row;">
+    <img src="./images/books/refactoring-fowler-beck.jpg" alt="Refactoring - Fowler and Beck" />
+    <img src="./images/books/extreme-programming.jpg.jpg" alt="Extreme Programming Explained: Embrace Change" />
+</div>
 
-Free online, I bought the books and loved them!
+## Next...
 
+<div style="display:flex;flex-direction:row;">
+    <img src="./images/books/refactoring-fowler-beck.jpg" alt="Machine learning avec Python" />
+</div>
+
+## Rood them and talk about them here!
