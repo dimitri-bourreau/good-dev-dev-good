@@ -20,6 +20,8 @@ Some more junior developers often come to me asking for guidance or help.
 
 This repository aims to answer to them. 🙂
 
+I even have a whole part dedicated to the [beginners](./beginner.md).
+
 ## English
 
 I'll talk english. English is important for every developer and should be learnt if necessary!
