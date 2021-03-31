@@ -2,7 +2,7 @@
 
 ## JavaScript / ECMAScript
 
-- 🇫🇷 ["Alors, quoi de neuf en ES2022 ?" - Christophe Porteneuve]("Alors, quoi de neuf en ES2022 ?" - Christophe Porteneuve)
+- 🇫🇷 ["Alors, quoi de neuf en ES2022 ?" - Christophe Porteneuve](https://www.youtube.com/watch?v=L2Ul--lVML4)
 
 ## Node.js
 
