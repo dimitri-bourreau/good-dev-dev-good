@@ -18,7 +18,7 @@
     <img src="./images/books/software-craftsman.jpg" alt="Software Crafstman" />
 </div>
 
-## Rood them and talk about them here!
+## Rood them and recommend them here!
 
 <div style="display:flex;flex-direction:row;">
     <img src="./images/books/ydkjs.jpg" alt="You don't know JS - Kyle Simpson" />
@@ -29,21 +29,18 @@
     <img src="./images/books/vue.jpg" alt="Vue.js" />
     <img src="./images/books/react.jpg" alt="React.js" />
     <img src="./images/books/git.jpg" alt="Git" />
-    <img src="./images/books/js-good-parts.jpg" alt="JS The good parts" />
-    <img src="./images/books/débuter-en-js.jpg" alt="Débuter en JavaScript" />
     <img src="./images/books/css3-flexbox.jpg" alt="CSS3 Flexbox" />
     <img src="./images/books/learning-the-vi-and-vim.jpg" alt="Learning the Vi and Vim" />
     <img src="./images/books/programming-ts.jpg" alt="Programming TS" />
-    <img src="./images/books/react-LE-framework.jpg" alt="React LE framework" />
 </div>
 
-## Rood them and didn't like them
+## Rood them and meh 😕
 
-They can be boring, they may not go deep enough, or it may be only me.
-
-The fact is I don't see the point to talk about these books, nor recommend them.
+They can be boring, they may not go deep enough, I may have read a better book on that subject or it may be only me.
 
 <div style="display:flex;flex-direction:row;">
+    <img src="./images/books/js-good-parts.jpg" alt="JS The good parts" />
+    <img src="./images/books/débuter-en-js.jpg" alt="Débuter en JavaScript" />
+    <img src="./images/books/react-LE-framework.jpg" alt="React LE framework" />
     <img src="./images/books/node.jpg" alt="Node.js" />
-
 </div>
