@@ -39,7 +39,7 @@ Until 2020 I only learnt from online resources such as videos, blogs or paid VOD
 
 I'll recommend some, though I've discovered books are an amazing tool to become a better developer!
 
-## Participate
+## Contribute
 
 Please propose your own resources via issues !
 
