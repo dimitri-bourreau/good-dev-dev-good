@@ -7,6 +7,7 @@ Here are some resources I've tried out and my opinion on them.
 
 I dev mostly JavaScript but this may interest every one.
 
+- [Beginner](./beginner.md)
 - [Books](./books.md) 
 - [Blogs](./blogs.md)
 - [Free VOD](./free-vod.md)
