@@ -3,19 +3,22 @@
 ## Reading now...
 
 <div style="display:flex;flex-direction:row;">
-    <img src="./images/books/refactoring-fowler-beck.jpg" alt="Refactoring - Fowler and Beck" />
     <img src="./images/books/extreme-programming.jpg" alt="Extreme Programming Explained: Embrace Change" />
+    <img src="./images/books/software-craftsman.jpg" alt="Software Crafstman" />
 </div>
 
 ## Next...
 
 <div style="display:flex;flex-direction:row;">
+    <img src="./images/books/refactoring-fowler-beck.jpg" alt="Refactoring - Fowler and Beck" />
     <img src="./images/books/machine-learning-python.jpg" alt="Machine learning avec Python" />
     <img src="./images/books/clean-code.png" alt="Clean code" />
     <img src="./images/books/ethical-hacking-eni.jpg" alt="Ethical hacking - Eni éditions" />
     <img src="./images/books/gray-hat-hacking.jpg" alt="Gray Hat Hacking" />
     <img src="./images/books/tdd.png" alt="Test Driven Development" />
-    <img src="./images/books/software-craftsman.jpg" alt="Software Crafstman" />
+    <img src="./images/books/functional-domain-modeling.png" alt="Functional Reactive Domain Modeling" />
+    <img src="./images/books/practical-monitoring.jpg" alt="Practical Monitoring" />
+    <img src="./images/books/continuous-delivery.jpg" alt="Continuous Delivery" />
 </div>
 
 ## Rood them and recommend them here!
