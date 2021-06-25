@@ -1,5 +1,15 @@
 # Books
 
+## Why books?
+
+Some goes deep.
+
+Some teach very well, taking time, sharing a lot more that only the necessary.
+
+Some share humbly their vision and the culture of the tech industry.
+
+Bottom line: willing to become a great developer often leads us to books. 📚 
+
 ## Reading now...
 
 <div style="display:flex;flex-direction:row;">
