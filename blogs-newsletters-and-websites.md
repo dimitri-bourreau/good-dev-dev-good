@@ -53,8 +53,24 @@
 - [🇫🇷 tuxicoman](https://tuxicoman.jesuislibre.net/)
 - [🇫🇷 victor-hery](https://blog.victor-hery.com/)
 
-# Newsletters
+# Official web dev blogs
+
+- [Angular](https://blog.angular.io/)
+- [React](https://fr.reactjs.org/blog/)
+- [TypeScript](https://devblogs.microsoft.com/typescript/)
+- [Vue](https://news.vuejs.org/)
+
+# Web dev newsletters
+
+These newsletters are available via RSS feed.
+
+- [Frontend focus](https://frontendfoc.us/)
+- [JavaScript weekly](https://javascriptweekly.com/)
+- [Node weekly](https://nodeweekly.com/)
+- [React Status](https://react.statuscode.com/)
+- [Web Platform Weekly](https://webplatform.news/)
 
 # Websites
 
 - [🇫🇷 Association April](https://www.april.org/)
+- [🇫🇷 developpez.com](http://www.developpez.com)
