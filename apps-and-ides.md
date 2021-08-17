@@ -1,4 +1,4 @@
-#Apps and IDEs
+# Apps and IDEs
 
 ## Editing
 
@@ -23,7 +23,7 @@ I love using WebStorm everyday. It's not perfect, VS Code does a lot that WebSto
 
 ## API
 
-Postman is great and famous. 
+Postman is great and famous.
 
 I love the interface of Insomnia.
 
