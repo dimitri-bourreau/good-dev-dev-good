@@ -28,6 +28,7 @@
 - [🇫🇷 dadall](https://www.dadall.info/)
 - [🇫🇷 damyr](https://www.damyr.fr/)
 - [🇫🇷 djan-gicquel](https://www.djan-gicquel.fr/)
+- [🇫🇷 enzosandre.fr](https://blog.enzosandre.fr/)
 - [🇫🇷 garamotte](https://blog.garamotte.net/)
 - [🇫🇷 geeek.org](https://www.geeek.org/)
 - [🇫🇷 karolak](https://blog.karolak.fr/)
