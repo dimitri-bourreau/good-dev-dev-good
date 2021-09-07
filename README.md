@@ -26,7 +26,7 @@ I even have a whole part dedicated to the [beginners](./beginner.md).
 
 ## English
 
-I'll talk english. English is important for every developer and should be learnt if necessary!
+I'll talk english. English is important for every developer and should be learn if necessary!
 
 > En France 🇫🇷 je recommande [les livres des éditions Eni](https://www.editions-eni.fr/) !
 >
