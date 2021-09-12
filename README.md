@@ -16,7 +16,7 @@ I dev mostly JavaScript but this may interest every one.
 
 ## This repository
 
-I am a developer since two years.
+I am a developer since three years.
 
 Some more junior developers often come to me asking for guidance or help.
 
@@ -28,7 +28,7 @@ I even have a whole part dedicated to the [beginners](./beginner.md).
 
 I'll talk english. English is important for every developer and should be learnt if necessary!
 
-> En France 🇫🇷 je recommande [les livres des éditions Eni](https://www.editions-eni.fr/) !
+> En France, je recommande [les livres des éditions Eni](https://www.editions-eni.fr/) !
 >
 > Je ne recommande ni YouTube, ni Openclassrooms : soit trop bref, soit pas assez pédagogues.
 
