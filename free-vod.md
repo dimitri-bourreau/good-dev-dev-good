@@ -2,6 +2,7 @@
 
 ## Programming in general
 
+- 🇫🇷 [Software Crafts·wo·manship - Dette technique et entropie du logiciel (Arnaud Lemaire)](https://youtu.be/VKe9EE4MUxk)
 - 🇫🇷 [BDX I/O 2019 - Equiper sa voie - Thomas Pierrain](https://youtu.be/d0_ib2hs-04)
 
 ## JavaScript / ECMAScript
