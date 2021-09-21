@@ -4,6 +4,7 @@
 
 - 🇫🇷 [Software Crafts·wo·manship - Dette technique et entropie du logiciel (Arnaud Lemaire)](https://youtu.be/VKe9EE4MUxk)
 - 🇫🇷 [BDX I/O 2019 - Equiper sa voie - Thomas Pierrain](https://youtu.be/d0_ib2hs-04)
+- 🇫🇷 [BDX I/O 2019 - Designers, développeurs, créons la diff… - Florent Berthelot et Cécile Freyd-Foucault](https://youtu.be/iD0Hy7jsuMc)
 
 ## JavaScript / ECMAScript
 
