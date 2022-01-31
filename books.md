@@ -13,8 +13,6 @@ Bottom line: willing to become a great developer often leads us to books. 📚
 ## Reading now...
 
 <div style="display:flex;flex-direction:row;">
-    <img src="./images/books/tdd.png" alt="Test Driven Development" />
-    <img src="./images/books/continuous-delivery.jpg" alt="Continuous Delivery" />
 </div>
 
 ## Next...
@@ -31,6 +29,8 @@ Bottom line: willing to become a great developer often leads us to books. 📚
 ## Rood them and recommend them here!
 
 <div style="display:flex;flex-direction:row;">
+    <img src="./images/books/tdd.png" alt="Test Driven Development" />
+    <img src="./images/books/continuous-delivery.jpg" alt="Continuous Delivery" />
     <img src="./images/books/extreme-programming.jpg" alt="Extreme Programming Explained: Embrace Change" />
     <img src="./images/books/software-craftsman.jpg" alt="Software Crafstman" />
     <img src="./images/books/refactoring-fowler-beck.jpg" alt="Refactoring - Fowler and Beck" />
