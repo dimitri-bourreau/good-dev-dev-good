@@ -29,7 +29,7 @@ Bottom line: willing to become a great developer often leads us to books. 📚
 ## Rood them and recommend them here!
 
 <div style="display:flex;flex-direction:row;">
-    <img src="./images/books/live-good-and.jpg" alt="Live Good And... - William Shatner" />
+    <img src="./images/books/live-long-and.jpg" alt="Live Long And... - William Shatner" />
     <img src="./images/books/pourquoi-nous-dormons.jpg" alt="Pourquoi nous dormons - Dr Matthew Walker" />
     <img src="./images/books/tdd.png" alt="Test Driven Development" />
     <img src="./images/books/clean-code.png" alt="Clean code" />
