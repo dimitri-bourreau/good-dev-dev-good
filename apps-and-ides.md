@@ -29,4 +29,4 @@ I love the interface of Insomnia.
 
 ## Time tracking
 
-Toggl Track is great, even though I would like to find a nice open source equivalent.
+Toggl Track is great, on Mac I use Tyme which has a great interface and features.

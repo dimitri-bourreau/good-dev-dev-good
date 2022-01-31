@@ -9,6 +9,7 @@ I dev mostly JavaScript but this may interest every one.
 
 - [Beginner](./beginner.md)
 - [Books](./books.md)
+- [Website to learn from](./websites-to-learn-from.md)
 - [Blogs, newsletters and websites](./blogs-newsletters-and-websites.md)
 - [Free VOD](./free-vod.md)
 - [Paid VOD](./paid-vod.md)
@@ -16,7 +17,7 @@ I dev mostly JavaScript but this may interest every one.
 
 ## This repository
 
-I am a developer since two years.
+I am a developer since 2019, August.
 
 Some more junior developers often come to me asking for guidance or help.
 
