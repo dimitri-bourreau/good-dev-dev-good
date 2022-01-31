@@ -9,7 +9,7 @@ I dev mostly JavaScript but this may interest every one.
 
 - [Beginner](./beginner.md)
 - [Books](./books.md)
-- [Website to learn from](./websites-to-learn-from.md)
+- [Websites to learn from](./websites-to-learn-from.md)
 - [Blogs, newsletters and websites](./blogs-newsletters-and-websites.md)
 - [Free VOD](./free-vod.md)
 - [Paid VOD](./paid-vod.md)
