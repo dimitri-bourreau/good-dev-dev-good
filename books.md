@@ -13,7 +13,7 @@ Bottom line: willing to become a great developer often leads us to books. 📚
 ## Reading now...
 
 <div style="display:flex;flex-direction:row;">
-    <img src="./images/books/node-design-patterns" alt="Node.js Design Patterns" />
+    <img src="./images/books/node-design-patterns.jpg" alt="Node.js Design Patterns" />
 </div>
 
 ## Next...
