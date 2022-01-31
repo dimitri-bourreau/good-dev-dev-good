@@ -13,13 +13,13 @@ Bottom line: willing to become a great developer often leads us to books. 📚
 ## Reading now...
 
 <div style="display:flex;flex-direction:row;">
+    <img src="./images/books/node-design-patterns" alt="Node.js Design Patterns" />
 </div>
 
 ## Next...
 
 <div style="display:flex;flex-direction:row;">
     <img src="./images/books/machine-learning-python.jpg" alt="Machine learning avec Python" />
-    <img src="./images/books/clean-code.png" alt="Clean code" />
     <img src="./images/books/ethical-hacking-eni.jpg" alt="Ethical hacking - Eni éditions" />
     <img src="./images/books/gray-hat-hacking.jpg" alt="Gray Hat Hacking" />
     <img src="./images/books/functional-domain-modeling.png" alt="Functional Reactive Domain Modeling" />
@@ -32,6 +32,7 @@ Bottom line: willing to become a great developer often leads us to books. 📚
     <img src="./images/books/live-good-and.jpg" alt="Live Good And... - William Shatner" />
     <img src="./images/books/pourquoi-nous-dormons.jpg" alt="Pourquoi nous dormons - Dr Matthew Walker" />
     <img src="./images/books/tdd.png" alt="Test Driven Development" />
+    <img src="./images/books/clean-code.png" alt="Clean code" />
     <img src="./images/books/continuous-delivery.jpg" alt="Continuous Delivery" />
     <img src="./images/books/extreme-programming.jpg" alt="Extreme Programming Explained: Embrace Change" />
     <img src="./images/books/software-craftsman.jpg" alt="Software Crafstman" />
